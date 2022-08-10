@@ -1,0 +1,14 @@
+{
+  "name": "medicaldesk",
+  "version": "1.0.0",
+  "description": "medical desk internship project",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss build src/input.css -o dist/output.css"
+  },
+  "author": "Eva",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.1.8"
+  }
+}
