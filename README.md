@@ -1,2 +1,11 @@
 # MedicalDesk (NOT FINISHED)
 This project is created based on a task given by New Media Communications company, due to internship purposes. The styling is based on the Figma template. (https://www.figma.com/file/eV6HTrrGAiQHj6SuOhtpc3/AADF-%26-Medical-Desk?node-id=2%3A546)
+
+![](PROTOTYPE/view1.png)
+![](PROTOTYPE/view2.png)
+![](PROTOTYPE/view3.png)
+![](PROTOTYPE/view4.png)
+![](PROTOTYPE/view5.png)
+![](PROTOTYPE/view6.png)
+![](PROTOTYPE/view7.png)
+![](PROTOTYPE/view8.png)
